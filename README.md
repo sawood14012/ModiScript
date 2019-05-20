@@ -77,15 +77,15 @@ Achhe din aa gaye
 <strong>Example codes can be found in `/example`.</strong>
 
 # Creators
-Ideas and Contributions for alpha version implemented by 
-
-+ Vishal Panjeta @VPanjeta 
-
-+ Tilak S Naik @TilakSN 
-
-+ Shishira R Maiya @abhyantrika 
-
-
+Ideas and Contributions for alpha version implemented by <br/>
+* Vishal Panjeta [@VPanjeta](https://vpanjeta.github.io) <br/>
+* Tilak S Naik [@TilakSN](https://github.com/TilakSN) <br/>
+* Shishira R Maiya [@abhyantrika](https://github.com/abhyantrika) <br/>
 
 
 * You are welcome, if you feel the need to contribute. Just clone the repo and send a pull request!
+
+
+
+
+
